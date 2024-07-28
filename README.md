@@ -108,6 +108,7 @@ High and Low-Level Intelligence System Abstractions:
 
 ```
 1. High-Level Abstraction
+
    - Overall architecture and functionality
    - Goals, capabilities, and user interactions
    - Tasks performed by the system
@@ -116,6 +117,7 @@ High and Low-Level Intelligence System Abstractions:
    - Broad concepts: machine learning, natural language processing, decision support systems
 
 2. Low-Level Abstraction
+
    - Specific operational details
    - Algorithms and data structures
    - Hardware implementations
