@@ -92,7 +92,7 @@ Levels of intelligence abstraction:
 ```
 
 #
-### ChatGPT
+### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
