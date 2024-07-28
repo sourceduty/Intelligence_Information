@@ -75,6 +75,8 @@ Another level of abstraction is the algorithmic and computational perspective, w
 
 At the highest level of abstraction, we have the societal and philosophical perspectives on intelligence. This level considers the implications of intelligence in a broader context, including ethical, social, and philosophical questions. It explores how intelligent systems interact with humans and society, the ethical considerations of deploying AI technologies, and the potential future of human and machine intelligence. Philosophers and ethicists debate the nature of consciousness, the moral status of intelligent machines, and the societal impact of advanced AI. This level of abstraction is essential for ensuring that the development and application of intelligent systems align with human values and societal goals.
 
+Levels of intelligence abstraction:
+
 ```
 1. Societal and Philosophical
    (Ethics, societal impact, future of AI)
