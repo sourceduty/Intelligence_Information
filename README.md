@@ -97,6 +97,8 @@ At the highest level of abstraction, we have the societal and philosophical pers
 [AI](https://github.com/sourceduty/AI)
 <br>
 [Process](https://github.com/sourceduty/Process)
+<br>
+[Software Intelligence](https://github.com/sourceduty/Software_Intelligence)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
