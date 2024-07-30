@@ -138,8 +138,44 @@ In contrast, individuals with lower intelligence may find it more challenging to
 A person with higher intelligence is often able to surpass their peers by leveraging their cognitive strengths. This can be visualized as a scenario where one individual progressively outperforms others in various intellectual domains, such as academic achievement, problem-solving abilities, and the capacity to innovate. Over time, the gap between this person and their peers widens, highlighting the significant impact that higher intelligence can have on personal and professional success.
 
 #
+### Intelligence Levels using IQ
 
-![GPT Builder Meme](https://github.com/user-attachments/assets/2d176701-3e35-47e1-997c-927c6e3a9b57)
+Human intelligence can be mapped to various IQ levels, with the highest levels corresponding to abilities such as abstract thought and genius-level problem-solving. Individuals with an IQ above 140 are considered geniuses, capable of advanced reasoning and conceptualization. Those with IQs between 130 and 139 are very superior, excelling in complex problem-solving. Superior intelligence, with IQs between 120 and 129, encompasses advanced language and communication skills. High average intelligence (IQ 110-119) involves sophisticated social interaction, understanding of social cues, and cultural norms. Average intelligence (IQ 90-109) includes practical tool use and everyday problem-solving. Low average intelligence (IQ 80-89) involves basic learning and memory capabilities, essential for adapting and surviving. Borderline intelligence (IQ 70-79) covers basic instinctual behaviors necessary for immediate survival.
+
+Animal intelligence is generally lower on the IQ scale compared to humans but still exhibits significant capabilities. Borderline intelligence (IQ 70-79) in animals involves basic instinctual behaviors. Mild intellectual disability (IQ 60-69) encompasses learning and memory, enabling animals to adapt to their environments. Moderate intellectual disability (IQ 50-59) includes tool use seen in some species, like primates and certain birds. Severe intellectual disability (IQ 40-49) involves social interaction, with varying levels of complexity among different species. Profound intellectual disability (IQ 30-39) covers basic communication methods, such as vocalizations and body language. Animals with IQ below 30 exhibit rudimentary problem-solving skills, often linked to their specific ecological niches. In conclusion, mapping intelligence to IQ levels highlights the advanced capabilities of human intelligence compared to animals. Humans reach higher levels of abstraction and complexity, enabling superior problem-solving, communication, and social interaction. Animal intelligence, while diverse and remarkable, generally does not achieve the same level of complexity as human intelligence.
+
+```
+Human Intelligence:
+
+IQ 140+: Genius (Abstract Thought)
+|
+IQ 130-139: Very Superior (Complex Problem Solving)
+|
+IQ 120-129: Superior (Language and Communication)
+|
+IQ 110-119: High Average (Social Interaction)
+|
+IQ 90-109: Average (Tool Use)
+|
+IQ 80-89: Low Average (Learning and Memory)
+|
+IQ 70-79: Borderline (Basic Instinctual Behaviors)
+```
+```
+Animal Intelligence:
+
+IQ 70-79: Borderline (Basic Instinctual Behaviors)
+|
+IQ 60-69: Mild Intellectual Disability (Learning and Memory)
+|
+IQ 50-59: Moderate Intellectual Disability (Tool Use in some species)
+|
+IQ 40-49: Severe Intellectual Disability (Social Interaction)
+|
+IQ 30-39: Profound Intellectual Disability (Communication)
+|
+IQ below 30: Profound Intellectual Disability (Problem Solving)
+```
 
 #
 ### Related Links
